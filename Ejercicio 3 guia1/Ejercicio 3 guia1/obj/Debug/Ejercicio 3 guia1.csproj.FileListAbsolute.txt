@@ -1,0 +1,9 @@
+C:\Users\DELL\Desktop\programas\Guia 1\Ejercicio 3 guia1\Ejercicio 3 guia1\bin\Debug\Ejercicio 3 guia1.exe.config
+C:\Users\DELL\Desktop\programas\Guia 1\Ejercicio 3 guia1\Ejercicio 3 guia1\bin\Debug\Ejercicio 3 guia1.exe
+C:\Users\DELL\Desktop\programas\Guia 1\Ejercicio 3 guia1\Ejercicio 3 guia1\bin\Debug\Ejercicio 3 guia1.pdb
+C:\Users\DELL\Desktop\programas\Guia 1\Ejercicio 3 guia1\Ejercicio 3 guia1\obj\Debug\Ejercicio 3 guia1.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Desktop\programas\Guia 1\Ejercicio 3 guia1\Ejercicio 3 guia1\obj\Debug\Ejercicio_3_guia1.Form1.resources
+C:\Users\DELL\Desktop\programas\Guia 1\Ejercicio 3 guia1\Ejercicio 3 guia1\obj\Debug\Ejercicio_3_guia1.Properties.Resources.resources
+C:\Users\DELL\Desktop\programas\Guia 1\Ejercicio 3 guia1\Ejercicio 3 guia1\obj\Debug\Ejercicio 3 guia1.csproj.GenerateResource.Cache
+C:\Users\DELL\Desktop\programas\Guia 1\Ejercicio 3 guia1\Ejercicio 3 guia1\obj\Debug\Ejercicio 3 guia1.exe
+C:\Users\DELL\Desktop\programas\Guia 1\Ejercicio 3 guia1\Ejercicio 3 guia1\obj\Debug\Ejercicio 3 guia1.pdb

@@ -1,0 +1,9 @@
+C:\Users\DELL\Desktop\programas\Guia 1\Ejercicio 2\Ejercicio 2\bin\Debug\Ejercicio 2.exe.config
+C:\Users\DELL\Desktop\programas\Guia 1\Ejercicio 2\Ejercicio 2\bin\Debug\Ejercicio 2.exe
+C:\Users\DELL\Desktop\programas\Guia 1\Ejercicio 2\Ejercicio 2\bin\Debug\Ejercicio 2.pdb
+C:\Users\DELL\Desktop\programas\Guia 1\Ejercicio 2\Ejercicio 2\obj\Debug\Ejercicio 2.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Desktop\programas\Guia 1\Ejercicio 2\Ejercicio 2\obj\Debug\Ejercicio_2.Form1.resources
+C:\Users\DELL\Desktop\programas\Guia 1\Ejercicio 2\Ejercicio 2\obj\Debug\Ejercicio_2.Properties.Resources.resources
+C:\Users\DELL\Desktop\programas\Guia 1\Ejercicio 2\Ejercicio 2\obj\Debug\Ejercicio 2.csproj.GenerateResource.Cache
+C:\Users\DELL\Desktop\programas\Guia 1\Ejercicio 2\Ejercicio 2\obj\Debug\Ejercicio 2.exe
+C:\Users\DELL\Desktop\programas\Guia 1\Ejercicio 2\Ejercicio 2\obj\Debug\Ejercicio 2.pdb

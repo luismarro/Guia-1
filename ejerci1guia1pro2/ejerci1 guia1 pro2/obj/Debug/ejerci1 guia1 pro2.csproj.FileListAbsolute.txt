@@ -1,0 +1,9 @@
+C:\Users\DELL\Documents\ISO\ejerci1 guia1 pro2\ejerci1 guia1 pro2\bin\Debug\ejerci1 guia1 pro2.exe.config
+C:\Users\DELL\Documents\ISO\ejerci1 guia1 pro2\ejerci1 guia1 pro2\bin\Debug\ejerci1 guia1 pro2.exe
+C:\Users\DELL\Documents\ISO\ejerci1 guia1 pro2\ejerci1 guia1 pro2\bin\Debug\ejerci1 guia1 pro2.pdb
+C:\Users\DELL\Documents\ISO\ejerci1 guia1 pro2\ejerci1 guia1 pro2\obj\Debug\ejerci1 guia1 pro2.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Documents\ISO\ejerci1 guia1 pro2\ejerci1 guia1 pro2\obj\Debug\ejerci1_guia1_pro2.Form1.resources
+C:\Users\DELL\Documents\ISO\ejerci1 guia1 pro2\ejerci1 guia1 pro2\obj\Debug\ejerci1_guia1_pro2.Properties.Resources.resources
+C:\Users\DELL\Documents\ISO\ejerci1 guia1 pro2\ejerci1 guia1 pro2\obj\Debug\ejerci1 guia1 pro2.csproj.GenerateResource.Cache
+C:\Users\DELL\Documents\ISO\ejerci1 guia1 pro2\ejerci1 guia1 pro2\obj\Debug\ejerci1 guia1 pro2.exe
+C:\Users\DELL\Documents\ISO\ejerci1 guia1 pro2\ejerci1 guia1 pro2\obj\Debug\ejerci1 guia1 pro2.pdb
